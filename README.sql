@@ -11,7 +11,7 @@
 -- The rest of dimention tables and background tables are populated manually
 -- Software Developer: Mohammad Hossein Owj contact: hossein.owj@gmail.com
 -- Supervisor: Dr. Michael Mannino contact: Michael.Mannino@ucdenver.edu
--- All rights are reserved for University of Colorado Denver Business School
+
 
 
 --Instruction:
