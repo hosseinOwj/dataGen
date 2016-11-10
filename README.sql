@@ -9,7 +9,7 @@
 -- FACT TABLES: W_LEAD_F, W_JOB_F, W_SUB_JOB_F, W_JOB_SJIPMENT_F, W_INVOICELINE_F, W_FINANCIAL_SUMMARY_SALES_F, W_FINANCIAL_SUMMARY_COST_F
 -- And also W_JOB_CHANGE_DATA
 -- The rest of dimention tables and background tables are populated manually
--- Software Developer: Mohammad Hossein Owj contact: hossein.owj@gmail.com
+-- Software Developer: Mohammad Hossein Owj contact: owj.hossein@gmail.com
 -- Supervisor: Dr. Michael Mannino contact: Michael.Mannino@ucdenver.edu
 
 
